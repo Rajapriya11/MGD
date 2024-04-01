@@ -3,7 +3,11 @@
          ![image](https://github.com/Rajapriya11/MGD/assets/119552816/d82873e3-e0f8-4ca7-a260-80f7bb6d2e64)
 
 Dry eye disease, primarily caused by Meibomian gland dysfunction (MGD), is a significant global health concern. Ophthalmologists are increasingly focusing on MGD, particularly its severity and variations in Meibomian glands. But finding these glands in medical images is hard because they are distinct in appearance and they look similar to the nearby tissues. This project analyses the application of four deep learning-based segmentation algorithms to efficiently and precisely locate the Meibomian glands in meibography images. The performance of established models of Yolov8, U-Net, DeepLabv3+, and SegNet were compared. Out of these four models U-Net emerges as the most effective model, achieving 74.93% accuracy, 43% precision, 77% recall, and a balanced F1-score of 56%. U-Net was implemented with sigmoid activation function at the output layer and binary cross-entropy for binary classification.
+
+
 Source dataset: https://mgd1k.github.io/index.html
+
+
 Sample output : Meibomian gland segmentation of Yolov8 of this project
 ![image](https://github.com/Rajapriya11/MGD/assets/119552816/e762d4f7-9961-4f7e-ac4d-23a7d8a03740)
 
