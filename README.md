@@ -9,6 +9,7 @@ Source dataset: https://mgd1k.github.io/index.html
 
 
 Sample output : Meibomian gland segmentation of Yolov8 of this project
+
 ![image](https://github.com/Rajapriya11/MGD/assets/119552816/e762d4f7-9961-4f7e-ac4d-23a7d8a03740)
 
 Predicted image of YOLOV8:
@@ -17,15 +18,23 @@ Predicted image of YOLOV8:
 
 
 Sample data augmentation image of this project:
+
 ![image](https://github.com/Rajapriya11/MGD/assets/119552816/7eed35d4-1dad-414d-8a02-b1b0d5813486)
 
+
 U-Net sample output: predicted U-Net mask
+
 ![image](https://github.com/Rajapriya11/MGD/assets/119552816/73f98384-2164-42ae-8d9e-f41eec2e058b)
 
 Ground truth:
+
+
 ![image](https://github.com/Rajapriya11/MGD/assets/119552816/9723c567-cf3a-4646-84d0-783b57037bb5)
 
+
 Original image:
+
+
 ![image](https://github.com/Rajapriya11/MGD/assets/119552816/5c356df6-29af-44bb-bb41-c21e1fb50be6)
 
 
