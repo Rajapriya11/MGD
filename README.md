@@ -1,7 +1,10 @@
 # Automated Mebomian gland segmentation
 
+![image](https://github.com/Rajapriya11/MGD/assets/119552816/8d3e59ad-d4ff-4bee-a863-99488eeb4f5c)
 
-         ![image](https://github.com/Rajapriya11/MGD/assets/119552816/96fdbf45-e38a-4fdc-aec6-bd4231cd3a4f)
+
+
+    
 
 
 
